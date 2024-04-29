@@ -1,1 +1,0 @@
-import{x as s,y as u}from"./index-DcB7UUez.js";function t(e){return s("/subscribe/areaData",{code:e},{customDev:!0})}function r(e){return u("/subscribe/saveSubSafe",e,{customDev:!0})}function o(){return u("/user/subToken",null,{customDev:!0})}export{o as a,t as l,r as s};
