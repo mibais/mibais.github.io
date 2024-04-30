@@ -1,0 +1,1 @@
+import{n as u}from"./index-DqT9Gqo1.js";import{a$ as a}from"./antd-_WrWzocG.js";function s(e,o=""){var r;const t=((r=u.currentRoute.value)==null?void 0:r.query)??{},n=a(t,e)??o;return decodeURIComponent(n)}export{s as g};
