@@ -1,1 +1,0 @@
-import{w as e,v as s}from"./index-BPRStEv9.js";function n(t){return e("/admin/setting/save",t,{customDev:!0})}function u(t){return s("/admin/setting/view",{group:t},{customDev:!0})}export{n as s,u as v};
