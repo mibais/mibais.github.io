@@ -1,1 +1,0 @@
-import{q as u}from"./index-Y-CZqq6M.js";function r(){return u("/bought/planInfo",null,{customDev:!0})}function e(){return u("/bought/currentPlan",null,{customDev:!0})}function o(t){return u("/bought/buyTraffic",{trafficGB:t},{customDev:!0})}export{o as b,e as c,r as p};
