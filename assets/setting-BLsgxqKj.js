@@ -1,1 +1,0 @@
-import{s as e,q as s}from"./index-D1Qz1-ur.js";function n(t){return e("/admin/setting/save",t,{customDev:!0})}function u(t){return s("/admin/setting/view",{group:t},{customDev:!0})}export{n as s,u as v};
