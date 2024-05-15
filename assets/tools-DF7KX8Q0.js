@@ -1,1 +1,0 @@
-import{j as a}from"./index-BfS-IcDm.js";import{aX as n}from"./antd-D9bc_wb_.js";function s(e,o=""){var r;const t=((r=a.currentRoute.value)==null?void 0:r.query)??{},u=n(t,e)??o;return decodeURIComponent(u)}export{s as g};
