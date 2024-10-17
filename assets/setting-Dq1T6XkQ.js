@@ -1,0 +1,1 @@
+import{t as e,s as n}from"./index-BlNNMF3U.js";function s(t){return e("/admin/setting/save",t,{customDev:!0})}function u(){return e("/admin/setting/changeWechatSetting",null,{customDev:!0})}function a(t){return n("/admin/setting/view",{group:t},{customDev:!0})}export{u as c,s,a as v};
