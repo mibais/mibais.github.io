@@ -1,0 +1,1 @@
+import{s as u,t as s}from"./index-CDfL52KE.js";function a(e){return u("/subscribe/areaData",{code:e},{customDev:!0})}function r(e){return s("/subscribe/saveSubSafe",e,{customDev:!0})}function o(){return s("/user/subToken",null,{customDev:!0})}export{o as a,a as l,r as s};

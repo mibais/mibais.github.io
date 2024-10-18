@@ -1,0 +1,1 @@
+import{s as t}from"./index-CDfL52KE.js";function c(e){return t("/code/list",e,{customDev:!0})}function o(e){return t("/admin/code/list",{current:e.current,size:e.size,...e.param},{customDev:!0})}export{c as a,o as c};
