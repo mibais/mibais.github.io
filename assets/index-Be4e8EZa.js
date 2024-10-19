@@ -1,0 +1,1 @@
+import{q as u,s}from"./index-DkOGwy-T.js";function t(e){return u("/subscribe/areaData",{code:e},{customDev:!0})}function r(e){return s("/subscribe/saveSubSafe",e,{customDev:!0})}function o(){return s("/user/subToken",null,{customDev:!0})}export{o as a,t as l,r as s};
