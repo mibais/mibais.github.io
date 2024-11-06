@@ -1,0 +1,1 @@
+import{s as e,q as s}from"./index-CDCJcNlx.js";function n(u){return e("/subscribe/saveSubSafe",u,{customDev:!0})}function o(){return e("/user/subToken",null,{customDev:!0})}function r(){return s("/common/time",null,{customDev:!0})}export{o as a,n as s,r as t};
