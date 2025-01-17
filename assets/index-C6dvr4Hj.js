@@ -1,0 +1,1 @@
+import{s as e,q as u}from"./index-B5nFNpf7.js";function n(t){return e("/subscribe/saveSubSafe",t,{customDev:!0})}function o(){return e("/user/subToken",null,{customDev:!0})}function r(){return u("/common/time",null,{customDev:!0})}function a(){return u("/common/date",null,{customDev:!0})}export{o as a,a as d,n as s,r as t};
