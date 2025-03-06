@@ -1,1 +1,0 @@
-import{_ as o}from"./detail.vue_vue_type_script_setup_true_lang-CaGTG8nv.js";import"./antd-CgeKVLEk.js";import"./vue-BVKynzoK.js";import"./shop-jAmuWG_p.js";import"./index-Do-OgRPm.js";export{o as default};
