@@ -1,1 +1,0 @@
-window.__PRODUCTION____CONF__={"VITE_GLOB_APP_TITLE":"米白云"};Object.freeze(window.__PRODUCTION____CONF__);Object.defineProperty(window, "__PRODUCTION____CONF__", {configurable: false,writable: false,});
