@@ -1,0 +1,1 @@
+function s(t){const o=Number.parseInt(t,10);if(!o||o===0)return"0B";const n=1024,r=["B","KB","MB","GB","TB","PB","EB","ZB","YB"],B=Math.floor(Math.log(Math.abs(t))/Math.log(n));return(t/n**B).toPrecision(3)+r[B]}export{s as b};
