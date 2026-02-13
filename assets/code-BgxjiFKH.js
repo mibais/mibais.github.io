@@ -1,1 +1,0 @@
-import{a1 as e}from"./index-Cjh8dC-r.js";function i(r){return e({url:"/code/list",params:r})}function n(r){return e({url:"/admin/code/list",params:{current:r.current,size:r.size,...r.param}})}export{i as a,n as c};
