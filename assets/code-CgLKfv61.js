@@ -1,0 +1,1 @@
+import{d5 as e}from"./index-CnWba_w2.js";function i(r){return e({url:"/code/list",params:r})}function n(r){return e({url:"/admin/code/list",params:{current:r.current,size:r.size,...r.param}})}export{n as a,i as c};
