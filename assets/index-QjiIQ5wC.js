@@ -1,0 +1,1 @@
+import{_ as n}from"./exception-base.vue_vue_type_script_setup_true_lang-B0YAAJRv.js";import{be as o,cY as t,b2 as a}from"./index-Doy3coWB.js";const m=o({name:"500",__name:"index",setup(c){return(_,s)=>{const e=n;return t(),a(e,{type:"500"})}}});export{m as default};
