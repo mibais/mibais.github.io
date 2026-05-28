@@ -1,0 +1,1 @@
+import{be as o,cU as s,cQ as a,cY as c,b4 as t,b1 as n}from"./index-BRiFnfWb.js";const l={class:"h-full"},r=["src"],m=o({name:"iframe-page",__name:"[url]",props:{url:{}},setup(i){return s(()=>{console.log("mounted")}),a(()=>{console.log("activated")}),(e,u)=>(c(),t("div",l,[n("iframe",{id:"iframePage",class:"size-full",src:e.url},null,8,r)]))}});export{m as default};

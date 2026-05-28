@@ -1,1 +1,0 @@
-import{_ as n}from"./exception-base.vue_vue_type_script_setup_true_lang-Bq-F62S3.js";import{be as o,cY as t,b2 as a}from"./index-D-adtnBL.js";const m=o({name:"403",__name:"index",setup(c){return(_,s)=>{const e=n;return t(),a(e,{type:"403"})}}});export{m as default};
