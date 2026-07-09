@@ -1,1 +1,0 @@
-import{d as a,o,b as t,ae as n,ad as l,Y as i}from"./index-Ny58rhgo.js";const _=a({__name:"index",props:{visible:{type:Boolean,default:!1}},setup(e){return(s,d)=>(o(),t("div",{class:n(["frosted_glass_container",{frosted_glass_visible:e.visible,frosted_glass_hidden:!e.visible}])},[l(s.$slots,"default",{},void 0,!0)],2))}}),c=i(_,[["__scopeId","data-v-32656d7e"]]);export{c as _};
