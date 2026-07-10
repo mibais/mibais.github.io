@@ -1,1 +1,0 @@
-import{dx as s}from"./index-CXBKgclr.js";const a=i=>({toClipboard(n,d){return new Promise((r,c)=>{const o=document.createElement("button"),e=new s(o,{text:()=>n,action:()=>"copy",container:d!==void 0?d:document.body});e.on("success",t=>{e.destroy(),r(t)}),e.on("error",t=>{e.destroy(),c(t)}),document.body.appendChild(o),o.click(),document.body.removeChild(o)})}});export{a as u};
