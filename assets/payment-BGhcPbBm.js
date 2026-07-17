@@ -1,1 +1,0 @@
-import{a0 as r}from"./index-CDidsyg7.js";var p=(a=>(a.alipay="alipay",a.wechat="wechat",a.paypal="paypal",a))(p||{});function e(a){return r({url:"/payment/process",params:a})}function s(a){return r({url:"/payment/payStatus",params:{tradeNo:a}})}function u(a){return r({url:"/payment/createOrder",params:a})}export{p as P,u as a,e as c,s as p};
