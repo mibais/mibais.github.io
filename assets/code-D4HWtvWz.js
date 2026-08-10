@@ -1,0 +1,1 @@
+import{a2 as e}from"./index-CcQWiapy.js";function i(r){return e({url:"/code/list",params:r})}function n(r){return e({url:"/admin/code/list",params:{current:r.current,size:r.size,...r.param}})}export{i as a,n as c};
