@@ -1,0 +1,1 @@
+import{u as r}from"./responsiveObserve-w0WZ84Z1.js";import{af as u,i as t,s as a,ah as c}from"./index-COhpOJD1.js";function f(){const s=u({});let e=null;const n=r();return t(()=>{e=n.value.subscribe(o=>{s.value=o})}),a(()=>{n.value.unsubscribe(e)}),s}function v(s){const e=u();return c(()=>{e.value=s()},{flush:"sync"}),e}export{v as e,f as u};
