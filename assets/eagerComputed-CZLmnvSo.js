@@ -1,1 +1,0 @@
-import{a as r}from"./useFlexGapSupport-DNFm-0qx.js";import{af as o,i as t,v as a,ah as c}from"./index-BbWfySGC.js";function f(){const s=o({});let e=null;const n=r();return t(()=>{e=n.value.subscribe(u=>{s.value=u})}),a(()=>{n.value.unsubscribe(e)}),s}function v(s){const e=o();return c(()=>{e.value=s()},{flush:"sync"}),e}export{v as e,f as u};
