@@ -1,0 +1,1 @@
+import{a3 as i}from"./index-DUpYleiC.js";function e(t){return i({url:"/user/invite/list",params:t})}function r(){return i({url:"/invite/link"})}function a(){return i({url:"/invite/state"})}function u(){return i({url:"/payback/setting"})}export{a,r as b,e as i,u as p};
